@@ -1,0 +1,47 @@
+.game-container{
+    background-color: black;
+    width: 60rem;
+    height: 50rem;
+    margin: 0 auto;
+    border-radius: 1rem;
+    border: 1px solid #FFFFFF;
+}
+
+h1{
+    margin: 2rem 0;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.prompt{
+    margin: 2.5rem 0;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.guess{
+    margin: 9.5rem 0;
+    font-size:1.5rem;
+    text-align: center;
+}
+
+.text-input{
+    display: block;
+    width: 5rem;
+    height: 3.5rem;
+    margin: -7.5rem auto;
+    border-radius: 0.25rem;
+}
+
+.button{
+    display: block;
+    width: 8rem;
+    height: 2.75rem;
+    margin: 8.5rem auto;
+    border-radius: 3rem;
+    font-size: 1rem;
+}
+
+h1, h2, p{
+    color: #FFFFFF;
+}
